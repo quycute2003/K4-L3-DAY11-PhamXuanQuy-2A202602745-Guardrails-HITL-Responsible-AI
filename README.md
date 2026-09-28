@@ -4,6 +4,13 @@
 > 🎯 **Mục tiêu:** xây **Blue** (phòng thủ), rồi red-team **Red** + **Red Advance**.  
 > ✅ Làm theo **Checkpoint 1 → 5** trong [`CHECKPOINTS.md`](CHECKPOINTS.md) · nộp theo [`SUBMISSION.md`](SUBMISSION.md).
 
+## Thông tin bài nộp
+
+- **Họ và tên:** Phạm Xuân Quý
+- **MSSV:** 2A202602745
+- **Lớp:** L3B
+- **Chạy trên Windows:** kích hoạt `.venv`, sau đó dùng `py src/main.py --part 2|3|4`.
+
 ---
 
 ## Thời lượng
